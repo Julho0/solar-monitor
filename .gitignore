@@ -1,0 +1,23 @@
+# Ambiente virtual
+.venv/
+venv/
+env/
+
+# Segredos — NUNCA comite esses arquivos!
+.env
+.streamlit/secrets.toml
+
+# Dados locais de estado (gerados em runtime)
+ultima_manutencao.json
+historico_manutencao.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Sistemas operacionais
+.DS_Store
+Thumbs.db
