@@ -100,7 +100,7 @@ python alerta.py
 
 ## Deploy
 
-Projeto disponível em: *[link do Streamlit Cloud após o deploy]*
+Projeto disponível em: https://solar-monitor.streamlit.app/
 
 Para rodar sua própria instância:
 1. Fork este repositório
